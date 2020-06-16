@@ -9,3 +9,4 @@ Das ist jetzt der TEST-Branch!
 
 Das ist MEIN 2. Commit!!!
 
+Ich bin ein Mitarbeiter: EckCreek
